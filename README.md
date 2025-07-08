@@ -1,0 +1,2 @@
+# starrtix
+Event Management platform
